@@ -10,5 +10,4 @@ Create a file .env and add following:
 
 Generate files by this command:
 
-    flutter pub run build_runner build
-    --delete-conflicting-outputs
+    flutter pub run build_runner build --delete-conflicting-outputs
